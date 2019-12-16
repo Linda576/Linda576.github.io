@@ -4,7 +4,7 @@ Developer: Linda Ståhl
 	From:Åmål, västra götaland, Sweden
 
 /* SITE */
-	Last update:2019-11-14
+	Last update:2019-12-16
 	Language: English 
 	Doctype:HTML5
 	IDE: Visual Studio Code
