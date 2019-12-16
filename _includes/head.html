@@ -2,8 +2,13 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!--<meta property="og:image" content="{{ site.url }}/images/{{ page.image }}">-->
+  {%- if page.image -%}
   <meta property="og:image" content="{{ site.url }}/images/{{ page.image }}">
+  {%- else -%}
+  <meta property="og:image" content="{{ site.url }}/assets/images/avatar2-1.gif">
   <meta property="og:image:width" content="150" />
+  {%- endif -%}
   
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   {%- feed_meta -%}
