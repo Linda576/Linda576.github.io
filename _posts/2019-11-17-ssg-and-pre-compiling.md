@@ -3,7 +3,8 @@ layout: post
 title:  "SSG and Pre-compiling."
 date:   2019-11-17
 categories: jekyll update
-comments: true
+image: "/assets/images/avatar2-1.gif"
+description: "Blogpost about SSG and pre-compiling
 ---
 
 Pre-compiled css helps to avoid copying code, because variables and other features make it possible to reuse code instead. This is useful when building larger websites, where stylesheets tend to grow big and become cluttered and ultimately difficult to read. 

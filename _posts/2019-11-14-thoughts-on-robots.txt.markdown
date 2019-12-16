@@ -1,6 +1,8 @@
 ---
 layout: post
 author: "Linda"
+image: "/assets/images/avatar2-1.gif"
+description: "A blog post with info about robots.txt"
 ---
 
 The Robots Exclusion Protocol is a way for Web site owners to give instructions about their site to web robots. Web sites use the /robots.txt file for this.
