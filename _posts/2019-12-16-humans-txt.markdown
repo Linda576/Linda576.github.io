@@ -1,7 +1,7 @@
 ---
 layout: post
 author: "Linda"
-image: "humanstxt-isolated-blank.gif"
+image: "/assets/images/humanstxt-isolated-blank.gif"
 ---
 
  Humans.txt is a TXT file with information about the people who have contributed to building the website. The point of the txt-file, is to make the people behind the website known to the sites visitors without being intrusive with the code. An added txt file is an external, fast, easy and accessible way to prove your authorship (not your property).
