@@ -1,7 +1,7 @@
 ---
 layout: post
 author: "Linda"
-image: /assets/images/humanstxt-isolated-blank.gif
+image: "/assets/images/humanstxt-isolated-blank.gif"
 description: "A blog post with info about humans.txt"
 ---
 
